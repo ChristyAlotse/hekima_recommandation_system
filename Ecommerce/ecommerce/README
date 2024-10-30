@@ -1,0 +1,5 @@
+user name :Ryan
+passeword : hekima237
+
+#pour importer des produis depuis un fichier csv 
+python manage.py import_products

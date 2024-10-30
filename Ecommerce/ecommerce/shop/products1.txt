@@ -1,0 +1,54 @@
+name,price,description,category,image
+Smartphone XYZ,599.99,Latest model with high-end features,Electronics,http://example.com/smartphone_xyz.jpg
+Laptop ABC,999.99,Lightweight and powerful laptop,Electronics,http://example.com/laptop_abc.jpg
+Running Shoes,79.99,Comfortable and durable running shoes,Footwear,http://example.com/running_shoes.jpg
+Wristwatch,199.99,Elegant wristwatch with leather strap,Accessories,http://example.com/wristwatch.jpg
+Wireless Earbuds,49.99,Compact wireless earbuds with noise cancellation,Electronics,http://example.com/wireless_earbuds.jpg
+Backpack,39.99,Spacious backpack with multiple compartments,Accessories,http://example.com/backpack.jpg
+Coffee Maker,89.99,Automatic coffee maker with programmable settings,Home Appliances,http://example.com/coffee_maker.jpg
+Bluetooth Speaker,29.99,Portable Bluetooth speaker with powerful sound,Electronics,http://example.com/bluetooth_speaker.jpg
+Yoga Mat,19.99,Non-slip yoga mat for a comfortable workout,Fitness,http://example.com/yoga_mat.jpg
+Blender,59.99,High-speed blender for smoothies and soups,Home Appliances,http://example.com/blender.jpg
+T-shirt bleu,19.99,T-shirt en coton bleu avec un design unique.,Vêtements,https://example.com/tshirt_blue.jpg
+Jeans slim,39.99,Jeans slim fit confortables et modernes.,Vêtements,https://example.com/jeans_slim.jpg
+Casque audio,49.99,Casque audio sans fil avec réduction de bruit.,Électronique,https://example.com/casque_audio.jpg
+Montre intelligente,149.99,Montre connectée avec suivi de fitness.,Électronique,https://example.com/montre_intelligente.jpg
+Sac à dos,29.99,Sac à dos en toile résistant à l'eau.,Accessoires,https://example.com/sac_a_dos.jpg
+Chaussures de course,89.99,Chaussures légères et respirantes.,Chaussures,https://example.com/chaussures_course.jpg
+Livre de cuisine,24.99,Livre de recettes pour des plats faciles à préparer.,Livres,https://example.com/livre_cuisine.jpg
+Tablette 10",199.99,Tablette avec écran HD et 64 Go de stockage.,Électronique,https://example.com/tablette.jpg
+Veste en cuir,119.99,Veste en cuir véritable pour un look intemporel.,Vêtements,https://example.com/veste_en_cuir.jpg
+Montre analogique,59.99,Montre analogique classique avec bracelet en cuir.,Accessoires,https://example.com/montre_analogique.jpg
+Sac à main en cuir,79.99,Sac à main élégant en cuir véritable.,Accessoires,https://example.com/sac_main_en_cuir.jpg
+Ensemble de maquillage,29.99,Ensemble complet de maquillage avec palettes de couleurs.,Beauté,https://example.com/maquillage.jpg
+Robot culinaire,199.99,Robot multifonction pour la cuisine avec plusieurs accessoires.,Électronique,https://example.com/robot_culinaire.jpg
+Lampe de table,49.99,Lampe de table moderne avec réglage de luminosité.,Décoration,https://example.com/lampe_table.jpg
+Parfum pour femmes,59.99,Parfum floral léger et élégant pour toutes occasions.,Beauté,https://example.com/parfum_femmes.jpg
+Tapis de yoga,29.99,Tapis de yoga antidérapant, idéal pour les exercices.,Sport,https://example.com/tapis_yoga.jpg
+Chargeur sans fil,19.99,Chargeur sans fil rapide pour smartphones compatibles.,Électronique,https://example.com/chargeur_sans_fil.jpg
+Pantalon cargo,39.99,Pantalon cargo pratique avec plusieurs poches.,Vêtements,https://example.com/pantalon_cargo.jpg
+Foulard en soie,24.99,Foulard en soie doux et léger, parfait pour accessoiriser.,Accessoires,https://example.com/foulard_soie.jpg
+Jeux de société,34.99,Jeux de société classiques pour des soirées en famille.,Loisirs,https://example.com/jeux_societe.jpg
+Chaise ergonomique,129.99,Chaise ergonomique pour un confort optimal au travail.,Mobilier,https://example.com/chaise_ergonomique.jpg
+Boîte à bijoux,39.99,Boîte à bijoux en bois avec compartiments.,Accessoires,https://example.com/boite_bijoux.jpg
+Gant de jardinage,15.99,Gant de jardinage robuste avec protection.,Jardinage,https://example.com/gant_jardinage.jpg
+Masque facial hydratant,9.99,Masque facial hydratant pour une peau éclatante.,Beauté,https://example.com/masque_hydratant.jpg
+Support de téléphone,14.99,Support de téléphone réglable pour bureau.,Accessoires,https://example.com/support_telephone.jpg
+Montre connectée,89.99,Montre intelligente avec suivi de la santé et notifications.,Électronique,https://example.com/montre_connectee.jpg
+Sac à dos en toile,34.99,Sac à dos résistant en toile pour les aventures quotidiennes.,Accessoires,https://example.com/sac_dos_toile.jpg
+Tasse à café personnalisée,12.99,Tasse en céramique avec design personnalisable.,Cuisine,https://example.com/tasse_personnalisee.jpg
+Écouteurs sans fil,59.99,Écouteurs Bluetooth avec qualité sonore supérieure.,Électronique,https://example.com/ecouteurs_sans_fil.jpg
+Veste imperméable,89.99,Veste légère et imperméable pour les activités de plein air.,Vêtements,https://example.com/veste_impermeable.jpg
+Kit de jardinage,29.99,Kit complet avec outils de jardinage et gants.,Jardinage,https://example.com/kit_jardinage.jpg
+Livre de cuisine,24.99,Recueil de recettes faciles et rapides pour tous les niveaux.,Loisirs,https://example.com/livre_cuisine.jpg
+Bouteille isotherme,19.99,Bouteille en acier inoxydable qui garde les boissons chaudes ou froides.,Cuisine,https://example.com/bouteille_isotherme.jpg
+Lunettes de soleil,15.99,Lunettes de soleil tendance pour les journées ensoleillées.,Accessoires,https://example.com/lunettes_soleil.jpg
+Chaussures de course,69.99,Chaussures de course légères et confortables.,Vêtements,https://example.com/chaussures_course.jpg
+Coffret de chocolats,39.99,Coffret contenant une sélection de chocolats fins.,Alimentation,https://example.com/coffret_chocolats.jpg
+Tapis de jeu,44.99,Tapis de jeu confortable et coloré pour les enfants.,Décoration,https://example.com/tapis_de_jeu.jpg
+Smartphone,499.99,Smartphone haut de gamme avec appareil photo 108 MP.,Électronique,https://example.com/smartphone.jpg
+Parapluie pliant,19.99,Parapluie compact et léger, facile à transporter.,Accessoires,https://example.com/parapluie_pliant.jpg
+Sac de sport,49.99,Sac de sport pratique avec plusieurs compartiments.,Accessoires,https://example.com/sac_de_sport.jpg
+
+
+

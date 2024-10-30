@@ -1,0 +1,11 @@
+name,price,description,category,image
+Smartphone XYZ,599.99,Latest model with high-end features,Electronics,http://example.com/smartphone_xyz.jpg
+Laptop ABC,999.99,Lightweight and powerful laptop,Electronics,http://example.com/laptop_abc.jpg
+Running Shoes,79.99,Comfortable and durable running shoes,Footwear,http://example.com/running_shoes.jpg
+Wristwatch,199.99,Elegant wristwatch with leather strap,Accessories,http://example.com/wristwatch.jpg
+Wireless Earbuds,49.99,Compact wireless earbuds with noise cancellation,Electronics,http://example.com/wireless_earbuds.jpg
+Backpack,39.99,Spacious backpack with multiple compartments,Accessories,http://example.com/backpack.jpg
+Coffee Maker,89.99,Automatic coffee maker with programmable settings,Home Appliances,http://example.com/coffee_maker.jpg
+Bluetooth Speaker,29.99,Portable Bluetooth speaker with powerful sound,Electronics,http://example.com/bluetooth_speaker.jpg
+Yoga Mat,19.99,Non-slip yoga mat for a comfortable workout,Fitness,http://example.com/yoga_mat.jpg
+Blender,59.99,High-speed blender for smoothies and soups,Home Appliances,http://example.com/blender.jpg
